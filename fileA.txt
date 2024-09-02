@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 feature 1
+=======
+<<<<<<< HEAD
+feature 1 with 1 bug
+=======
+feature 1 with 2 bugs
+feature 2 wip
+>>>>>>> 5ac7ff3 (feature 2 wip)
+>>>>>>> bc638cd (feature 2 wip)
